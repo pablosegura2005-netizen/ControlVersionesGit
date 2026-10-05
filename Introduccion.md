@@ -1,5 +1,4 @@
 # Introducción al control de versiones
----
 ## ¿Que vamos a ver?
 El control de versiones es una herramienta fundamental en el desarrollo de software, ya que permite gestionar los cambios realizados en un proyecto y facilitar el trabajo colaborativo. Entre los sistemas más utilizados destaca **Git**, junto con **GitHub**, una plataforma que permite almacenar y compartir repositorios.
 
