@@ -5,3 +5,4 @@ Un repositorio es el lugar donde guardamos un proyecto y todos los archivos rela
 En un repositorio podemos crear ramas, hacer commits y subir cambios. También podemos hacer forks de otros repositorios y crear Pull Requests para proponer cambios.
 
 En este trabajo vamos a ver los conceptos básicos de los repositorios de Git y GitHub y cómo utilizarlos para trabajar en equipo.
+- [Volver atras](/README.md)
