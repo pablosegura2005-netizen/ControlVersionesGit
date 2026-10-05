@@ -6,3 +6,4 @@ Después clono el repositorio en mi ordenador con git clone y entro en la carpet
 
 Luego subo la rama a GitHub con git push y creo un Pull Request hacia el repositorio de mi compañero para que pueda revisar y aceptar mis cambios.
 ![git](img/gaminglaptopcpu.jpeg)
+- [Volver atras](/README.md)
