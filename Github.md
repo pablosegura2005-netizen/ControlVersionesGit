@@ -1,4 +1,4 @@
-### Hacer un Fork de un repositorio
+## Hacer un Fork de un repositorio
 
 Primero entro en el repositorio de mi compañero en GitHub y pulso Fork para crear una copia en mi cuenta.
 
