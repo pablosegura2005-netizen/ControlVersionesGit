@@ -6,4 +6,4 @@ En GitHub, Markdown se utiliza especialmente para crear archivos como **README.m
 
 Su facilidad de uso hace que Markdown sea una herramienta muy utilizada para documentar proyectos y presentar información de manera clara y organizada.
 
-[Markdown](/powerbazinga.png)
+[Markdown](/img/powerbazinga.png)
